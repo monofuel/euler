@@ -1,0 +1,6 @@
+# ignore binaries
+a.out
+!Makefile
+
+# ignore object files
+*.o
