@@ -6,6 +6,7 @@
 
 // golden ratio
 // dividing a fibonacci number by it's previous number approaches the golden ratio
+// ~ 1.618033
 
 int main(int argc, char *argv[])
 {
